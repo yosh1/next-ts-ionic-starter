@@ -1,1 +1,6 @@
-{}
+{
+	"appId": "app.eduo.dev",
+	"appName": "eduo",
+	"webDir": "out",
+	"bundledWebRuntime": false
+}
