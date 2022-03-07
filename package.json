@@ -17,7 +17,7 @@
     "@capacitor/core": "3.1.1",
     "@capacitor/ios": "^3.1.1",
     "@ionic/react": "^5.6.11",
-    "@ionic/react-router": "^5.6.11",
+    "@ionic/react-router": "5.9.3",
     "@capacitor-community/native-audio": "^3.0.0",
     "@capacitor/android": "^3.1.1",
     "@capacitor/app": "1.0.2",
