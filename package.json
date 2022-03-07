@@ -16,7 +16,7 @@
     "@capacitor/cli": "3.1.1",
     "@capacitor/core": "3.1.1",
     "@capacitor/ios": "^3.1.1",
-    "@ionic/react": "^5.6.11",
+    "@ionic/react": "5.9.3",
     "@ionic/react-router": "^5.6.11",
     "@capacitor-community/native-audio": "^3.0.0",
     "@capacitor/android": "^3.1.1",
